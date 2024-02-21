@@ -1,2 +1,2 @@
 # PythonNotebooks
-Python Notebooks
+This repo includes my Python studies. 
